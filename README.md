@@ -1,2 +1,2 @@
 # Reversi
-Reversi GUI
+Reversi game with GUI and PTUI
